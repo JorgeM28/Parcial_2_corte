@@ -47,7 +47,7 @@ entry_b.place(x=370, y=400, width=100, height=30)
 
 c = Canvas(frame_entrada, width=455,height=300)
 c.place(x=10,y=10)
-c.create_text(10 , 10,)
+c.create_text(10 , 10)
 
 def ventana_sec1():
 
